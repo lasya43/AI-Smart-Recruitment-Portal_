@@ -1,0 +1,13 @@
+# SmartRecruit
+
+> AI-powered enterprise recruitment portal connecting candidates, recruiters, and companies with intelligent resume-to-job matching.
+
+SmartRecruit streamlines the hiring pipeline for global enterprises. Candidates create profiles and apply to roles; recruiters post jobs and shortlist with AI match scores; admins manage users, companies, and reporting across the platform.
+
+## Pages
+
+- [Home](/): Overview, featured jobs, how SmartRecruit works.
+- [Browse Jobs](/jobs): Search and filter open roles across companies.
+- [Companies](/companies): Enterprise employers hiring on SmartRecruit.
+- [About](/about): How SmartRecruit reinvents enterprise hiring with AI.
+- [Contact](/contact): Reach the SmartRecruit team.
